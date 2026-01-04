@@ -1,5 +1,6 @@
 package DesignMethods;
 
+
 public class Snd_Design_Method {
 
 	public static void main(String[] args) {
